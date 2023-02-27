@@ -1,4 +1,4 @@
-# CodeChef-ELo-Rating-System
+# CodeChef-ELO-Rating-System-for-Multiplayer-games
 
 This rating system is a method for rating participants in individual competitions, It is a modification of the ELO rating system, tailored for group contests.
 
